@@ -1,0 +1,32 @@
+*.LST
+*.OBJ
+*.EXE
+*.CRF
+.Debug/*
+*.sln
+*.vcxproj
+*.filters
+# Ignore Visual Studio temporary files, build results, and
+# user-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore Visual Studio Code workspace files
+.vscode/
+
+# Ignore Visual Studio build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Ignore Visual Studio Code directories
+.vs/
